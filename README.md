@@ -1,4 +1,4 @@
-## GitHub Pages
+## Repositories
 
 * [python-notes](https://github.com/mfilipelino/python-notes)
 * [docker-notes](https://github.com/mfilipelino/docker-notes)
